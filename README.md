@@ -7,3 +7,8 @@ First project : Well it is not technically my first but its the first i decide t
 
 You can access the dataset for the project using the following link: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset/data.
 
+I followed and mixed some tutorials in youtube to reach to this result but i really forgot to keep the links but its easy just tap NLP models for the dataset name in kaggle and u gona find them.
+I hope this work would be helpful.
+
+
+
