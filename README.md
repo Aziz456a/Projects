@@ -11,4 +11,12 @@ I followed and mixed some tutorials in youtube to reach to this result but i rea
 I hope this work would be helpful.
 
 
+Second project : its simple javascript app with small added layers of html and css. and added a json file so i can see it as a chrome extention.
+                 80% percent of it was inspired from FreeCodecamp tutorial of building games with Javascript.
+
+
+
+                 
+
+
 
