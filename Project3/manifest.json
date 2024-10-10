@@ -1,0 +1,12 @@
+{
+    "name": "Rock Paper Scissors",
+    "version": "1.0.0",
+    "description": "Play Rock Paper Scissors against the computer.",
+    "manifest_version": 3,
+    "author": "Mohamed Aziz Jaziri",
+    "permissions": ["activeTab"],
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Rock Paper Scissors"
+    }
+}
