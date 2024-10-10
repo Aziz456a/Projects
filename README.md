@@ -9,7 +9,7 @@ I hope this work would be helpful.
 
 
 
-Second project : Well this is actually my end of studies project.My project mainly focused on integrating Generative IA using RAG with
+Second project : this is actually my end of studies project.My project mainly focused on integrating Generative IA using RAG with
                  microsoft sentinel in order to enhance automation. I was able to add an extra feature after that by integrating Notebooks 
                  execution automation pipeline using for the 2 features implementation python code. more precisely the orchestration component
                  written in python and deployed to Azure is what is going to be shared in here alongsidethe sample jupyter Notebook used for
@@ -23,6 +23,9 @@ Third project : Its a small project realised in my freetime and its mostly inspi
                 Its basicly Rock-paper-scisor game using javascript.
 
 
+Fourth project : This is one of my important acheivements in my second year at my engineering school. It was about building a streaming data pipeline 
+                 using Kafka, Spark , influxDB and Amazon DynamoDB. the Overall project is kinda beggier for exemple configuring IOT sensors and communication
+                 Protocols between them as well as crafting a frontend dashboard for data visualisation for end users however this was out of scope for me.
 
 
 
