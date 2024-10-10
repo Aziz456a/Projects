@@ -22,7 +22,7 @@ API_URL2 = "https://api-inference.huggingface.co/models/obrizum/all-mpnet-base-v
 
 # HTTP headers for API requests
 headers = {
-    "Authorization": f"Bearer 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",  # Bearer token for authentication
+    "Authorization": f"Bearer hf_#################################",  # Bearer token for authentication
     "Content-Type": "application/json"  # Set the content type to JSON
 }
 
@@ -151,7 +151,7 @@ def test2(req: func.HttpRequest) -> func.HttpResponse:
     logging.info("Python HTTP trigger has processed a request.")
     
     # Configuration for accessing Azure Blob Storage
-    CONNECTION_STRING = "DefaultEndpointsProtocol=https;AccountName=mltest2421780651;AccountKey=N4cLYuzfS7Ya+FmjDhynRVN4FVIBYl2sISkFN/D/rDz5sJ/dawY58M4flmCIIGp5tPH6mLBOfNeI+ASt3lbteA==;EndpointSuffix=core.windows.net"
+    CONNECTION_STRING = "YOUR CONNECTION STRING FROM YOUR STORAGE ACCOUNT"
     CONTAINER_NAME = "azureml-blobstore-d1cf2f28-70c7-4c18-bd1d-c34f59b63ff4"
     BLOB_NAME = "spec_test_notebook.ipynb"
 
